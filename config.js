@@ -3,8 +3,8 @@ let chalk = require('chalk')
 
 global.Owner = {
     // use the phone number with the country code, for example Indonesia '62' America '1' etc
-    '628818770766': { // 628818770766
-        name: 'Zevano',
+    '6287829334797': { // 6287829334797
+        name: 'Fiixlyz',
         isReport: true, // if true this number will send if user use command /report or /join
         isCreator: true, // if true this number will send if user use command /owner or /creator
         isDev: true
